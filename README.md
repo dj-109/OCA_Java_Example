@@ -24,10 +24,10 @@ Create classes with methods including:
    * date and time
       * of
       * parse
-*** get
-*** is
-*** with
-*** plus
-*** minus
-*** to
-*** at
+     * get
+     * is
+     * with
+     * plus
+     * minus
+     * to
+     * at
